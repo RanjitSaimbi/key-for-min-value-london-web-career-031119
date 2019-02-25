@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   name_hash.collect do |key, value|
-    value
+    array_of_ages = value
 end
