@@ -6,5 +6,5 @@ def key_for_min_value(name_hash)
     array_of_ages = value
   end
   array_of_ages.each do |value|
-    if value 
+    
 end
